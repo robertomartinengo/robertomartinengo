@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Roberto Martinengo Banner" width="100%">
+  <img src="RM_banner.png" alt="Roberto Martinengo Banner" width="100%">
 </p>
 
 # Hi there, I'm Roberto! 👋
