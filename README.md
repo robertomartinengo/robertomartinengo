@@ -6,4 +6,4 @@
 
 - 🎓 **High School Student** passionate about software development and clean code.
 - 🐍 Currently building projects in **Python** and preparing for quantitative algorithm challenges.
-- ⭐️ Check out my main learning repository: [`python-learning`](https://github.com/roberto.martinengo/python-learning)
+- ⭐️ Check out my main learning repository: [`python-learning`](https://github.com/robertomartinengo/python-learning)
